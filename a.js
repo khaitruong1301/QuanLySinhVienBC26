@@ -6,3 +6,4 @@ function codePythonBangJavascript() {
 
 
 console.log('Mình là b nè')
+console.log('Mình là A');
