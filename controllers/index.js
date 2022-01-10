@@ -172,3 +172,9 @@ document.querySelector('#btnCapNhatThongTin').onclick = function () {
           console.log('err',err.response.data);
       })
 }
+
+
+
+function timKiemNguoiDung () {
+    console.log('Tìm kiếm người dùng!');
+}
