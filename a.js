@@ -9,3 +9,5 @@ console.log('Mình là b nè')
 console.log('Mình là A');
 
 console.log('code thêm tí nữa !');
+
+console.log('B code thêm tí nữa nha !');
