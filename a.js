@@ -7,3 +7,5 @@ function codePythonBangJavascript() {
 
 console.log('Mình là b nè')
 console.log('Mình là A');
+
+console.log('code thêm tí nữa !');
